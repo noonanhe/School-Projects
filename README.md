@@ -9,3 +9,6 @@ This program was part of my introduction to C++ class. It includes different fun
 
 ### Document Reading Project
 This project was designed to read in a text document and perform some simple text anlaysis functions.
+
+### AVL Tree Project
+This project was part of my data structures and algorithms class. The Node class, AVL Tree constructor, equal and comparison functions were provided by the instructor. My job as a student, was to complete the insert, remove, search, inorder, preorder, postorder, breadth_first, depth, height, min, max, left_rotate, right_rotate, rebalance, and sum_update methods (I wrote some helper functions as well). This project allowed me to gain an understanding of AVL and balanced trees and the operations required to search/add/remove/traverse them.
