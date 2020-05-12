@@ -6,3 +6,6 @@ This was a project for my introduction to C++ class in which we were given instr
 
 ### Matrix Manipulation Project
 This program was part of my introduction to C++ class. It includes different functions that manipulate 2D matrices.
+
+### Document Reading Project
+This project was designed to read in a text document and perform some simple text anlaysis functions.
