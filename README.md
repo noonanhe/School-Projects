@@ -12,3 +12,6 @@ This project was designed to read in a text document and perform some simple tex
 
 ### AVL Tree Project
 This project was part of my data structures and algorithms class. The Node class, AVL Tree constructor, equal and comparison functions were provided by the instructor. My job as a student, was to complete the insert, remove, search, inorder, preorder, postorder, breadth_first, depth, height, min, max, left_rotate, right_rotate, rebalance, and sum_update methods (I wrote some helper functions as well). This project allowed me to gain an understanding of AVL and balanced trees and the operations required to search/add/remove/traverse them.
+
+### Hash Table Project
+Another project from my data structures and algorithms class, this assignment helped me gain an understanding of hash tables and the methods used to store data into them while minimizing conflicts. This particular project focused on double hashing.
